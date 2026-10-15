@@ -1,0 +1,12 @@
+fecha: 2026-10-07T12:11:54-05:00
+modo: cluster
+hosts: NBIG291
+NBIG296
+NBIG305
+NBIG333
+CPU(s):                               4
+Model name:                           Intel(R) Xeon(R) CPU E5-2650 v4 @ 2.20GHz
+L2 cache:                             1 MiB (4 instances)
+L3 cache:                             120 MiB (4 instances)
+mpirun (Open MPI) 4.1.2
+REPS=10 SIZES=192 384 768 1536 WORKERS=1 2 3

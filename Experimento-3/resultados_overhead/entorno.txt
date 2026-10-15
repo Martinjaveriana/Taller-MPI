@@ -1,0 +1,12 @@
+fecha: 2026-10-13T11:46:16-05:00
+modo: cluster
+hosts: NBIG333
+NBIG305
+NBIG291
+NBIG296
+CPU(s):                               4
+Model name:                           Intel(R) Xeon(R) Gold 6240R CPU @ 2.40GHz
+L2 cache:                             4 MiB (4 instances)
+L3 cache:                             143 MiB (4 instances)
+mpirun (Open MPI) 4.1.2
+REPS=30 SIZES=192 384 768 1536 2304 3072 WORKERS=1 2 3

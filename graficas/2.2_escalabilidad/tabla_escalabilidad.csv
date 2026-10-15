@@ -1,0 +1,13 @@
+﻿Algoritmo;N;Local;Clúster;Escala mejor
+FxC;192;1,75×;1,36×;Local
+FxC;384;2,39×;1,87×;Local
+FxC;768;2,26×;2,68×;Clúster
+FxC;1536;2,51×;3,08×;Clúster
+FxC;2304;2,53×;2,97×;Clúster
+FxC;3072;2,47×;2,75×;Clúster
+FxT;192;1,65×;1,30×;Local
+FxT;384;2,37×;2,19×;Local
+FxT;768;2,53×;2,64×;Clúster
+FxT;1536;2,66×;2,82×;Clúster
+FxT;2304;2,69×;2,86×;Clúster
+FxT;3072;2,75×;2,89×;Clúster

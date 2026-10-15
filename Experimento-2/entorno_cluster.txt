@@ -1,0 +1,16 @@
+Fecha: mar 06 oct 2026 23:15:34 -05
+Escenario: cluster
+Maquina: NBIG296
+--- CPU ---
+CPU(s):                                  4
+Model name:                              Intel(R) Xeon(R) Gold 6348 CPU @ 2.60GHz
+Thread(s) per core:                      1
+--- Memoria ---
+               total        used        free      shared  buff/cache   available
+Mem:            11Gi       4,7Gi       652Mi       144Mi       6,3Gi       6,8Gi
+--- Sistema ---
+Linux 6.8.0-136-generic x86_64
+--- MPI ---
+mpirun (Open MPI) 4.1.2
+--- Configuracion ---
+NS=600 1200 1800 2400  WORKERS=1 2 3  REPS=10  EXTRA=--mca btl_tcp_if_include ens33 --mca oob_tcp_if_include ens33

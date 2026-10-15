@@ -1,0 +1,16 @@
+Fecha: lun 12 oct 2026 21:41:38 -05
+Escenario: local
+Maquina: NBIG333
+--- CPU ---
+CPU(s):                               4
+Model name:                           Intel(R) Xeon(R) Gold 6240R CPU @ 2.40GHz
+Thread(s) per core:                   1
+--- Memoria ---
+               total        used        free      shared  buff/cache   available
+Mem:            11Gi       2,9Gi       1,1Gi        55Mi       7,7Gi       8,4Gi
+--- Sistema ---
+Linux 6.8.0-90-generic x86_64
+--- MPI ---
+mpirun (Open MPI) 4.1.2
+--- Configuracion ---
+NS=192 384 768 1536 2304 3072  WORKERS=1 2 3  REPS=30  EXTRA=--mca btl_tcp_if_include ens33 --mca oob_tcp_if_include ens33 -x HWLOC_COMPONENTS

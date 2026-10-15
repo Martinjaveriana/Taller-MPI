@@ -1,0 +1,5 @@
+﻿Nodo;Procesador;Rol en el experimento
+NBIG333;Xeon Gold 6240R @ 2,40 GHz;master / local
+NBIG305;Xeon Gold 6348 @ 2,60 GHz;worker 1
+NBIG291;Xeon E5-2650 v4 @ 2,20 GHz;worker 2
+NBIG296;Xeon Gold 6348 @ 2,60 GHz;worker 3
